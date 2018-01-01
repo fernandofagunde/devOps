@@ -6,7 +6,7 @@ public class TesteGit {
 	
 	private void syso() {
 		// TODO Auto-generated method stub
-System.out.println("rodou pelo git");
+System.out.println("rodolkjlkju pelo git");
 	}
 
 }
